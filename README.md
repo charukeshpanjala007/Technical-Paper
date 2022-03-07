@@ -1,17 +1,14 @@
 # Design Patterns
 
 > ## Introduction
----
 Design Pattern is a widely acknowledged concept in the software engineering industry in terms of the benefits it brings to areas of code-reuse and maintainability. As a software developer, you likely stumble upon this term at one point. Unsurprisingly, without even knowing it, the chances are that you might have already implemented them somewhere in the development journey.
 
 A **design pattern** is used to identify reusable solutions that can be applied to recurring problems that software developers commonly face during software design. They represent time-tested solutions and best practices adopted by object-oriented software developers over time.
 
 > ## What is a Design Pattern?
----
 Design pattern can be considered pre-made blueprint applied to solve a particular design problem. It is not a finished piece of code that can be directly applied to your program. But rather, it is more like a template or description that can give you an idea of approaching a problem and inspiring solutions. Hence, the code for the two separate programming scenarios, implementing the same pattern can be different.
 
 > ## Structure of a Design Pattern
- ---
 
 Term |Description
 ------|-----------
@@ -21,52 +18,36 @@ Term |Description
 **Code**|Example in any popular language for a better grasp of the idea
 
 > ## Why Patterns?
----
 ### &emsp;1.Avoid reinventing the wheel:
-<pre>
-Most of the frequently faced design problems already have a well-defined solution that is associated with a pattern. Patterns are proven solutions that can speed up development.
-</pre>
+    Most of the frequently faced design problems already have a well-defined solution that is associated with a pattern. Patterns are proven solutions that can speed up development.
 
 ### &emsp;2. Codebase Maintenance:
-<pre>
-Patterns help in implementing DRY(Do not Repeat Yourself) – the concept which helps to prevent your codebase from growing large and unwieldy.
-</pre>
+    Patterns help in implementing DRY(Do not Repeat Yourself) – the concept which helps to prevent your codebase from growing large and unwieldy.
 
 ### &emsp;3. Easily reused:
-<pre>
-Reusing patterns assists in preventing minor subtle issues that can cause major problems in the application development process. This also improves code readability for coders and architects familiar with the patterns.
-</pre>
+    Reusing patterns assists in preventing minor subtle issues that can cause major problems in the application development process. This also improves code readability for coders and architects familiar with the patterns.
 
 ### &emsp;4. Enables efficient communication:
-<pre>
-Patterns add to a developer’s vocabulary. This allows developers to communicate using well-known, well-understood names for software interactions, making communication faster.
-</pre>
+    Patterns add to a developer’s vocabulary. This allows developers to communicate using well-known, well-understood names for software interactions, making communication faster.
 
 ### &emsp;5. Improve your object-oriented skills:
-<pre>
-Now even if you never encounter any of these problems, learning patterns can give you insights into various approaches to solving problems using object-oriented principles.
-</pre>
+    Now even if you never encounter any of these problems, learning patterns can give you insights into various approaches to solving problems using object-oriented principles.
 
 > ## Categories of Design Pattern
 Based on intent, the JavaScript design pattern can be categorized into 3 major groups:
 
 ### &emsp; a) Creational Design Pattern
-<pre>
-These patterns focus on handling object creation mechanisms. A basic object creation approach in a program can lead to an added complexity. Creational JS design patterns aim to solve this problem by controlling the creation process.
-Few patterns that fall under this category are – Constructor, Factory, Prototype, Singleton, etc.
-</pre>
+    These patterns focus on handling object creation mechanisms. A basic object creation approach in a program can lead to an added complexity. Creational JS design patterns aim to solve this problem by controlling the creation process.
+    Few patterns that fall under this category are – Constructor, Factory, Prototype, Singleton, etc.
 
 ### &emsp;b) Structural Design Patterns
-<pre>
-These patterns are concerned with object composition. They explain simple ways to assemble objects and classes into larger structures. They help ensure that when one part of a system changes, the entire structure of the system doesn’t need to do the same, keeping them flexible and efficient.
-Few patterns that fall under this category are – Module, Decorator, Facade, Adapter, Proxy, etc.
-</pre>
+    These patterns are concerned with object composition. They explain simple ways to assemble objects and classes into larger structures. They help ensure that when one part of a system changes, the entire structure of the system doesn’t need to do the same, keeping them flexible and efficient.
+    Few patterns that fall under this category are – Module, Decorator, Facade, Adapter, Proxy, etc.
 
 ### &emsp;c) Behavioral Design Patterns
-<pre>
-These patterns focus on improving the communication and assignment of responsibilities between dissimilar objects in a system.
-Few patterns that fall under this category are – Chain of Responsibility, Command, Observer, Iterator, Strategy, Template, etc.
-</pre>
+    These patterns focus on improving the communication and assignment of responsibilities between dissimilar objects in a system.
+    Few patterns that fall under this category are – Chain of Responsibility, Command, Observer, Iterator, Strategy, Template, etc.
+
 ![design patterns](https://res.cloudinary.com/devvekh18/image/upload/v1646688628/technical%20paper/designpatterns_nixep9.png)
 
 
