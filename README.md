@@ -1,14 +1,14 @@
 # Design Patterns
 
-> ## Introduction
+## Introduction
 Design Pattern is a widely acknowledged concept in the software engineering industry in terms of the benefits it brings to areas of code-reuse and maintainability. As a software developer, you likely stumble upon this term at one point. Unsurprisingly, without even knowing it, the chances are that you might have already implemented them somewhere in the development journey.
 
 A **design pattern** is used to identify reusable solutions that can be applied to recurring problems that software developers commonly face during software design. They represent time-tested solutions and best practices adopted by object-oriented software developers over time.
 
-> ## What is a Design Pattern?
+## What is a Design Pattern?
 Design pattern can be considered pre-made blueprint applied to solve a particular design problem. It is not a finished piece of code that can be directly applied to your program. But rather, it is more like a template or description that can give you an idea of approaching a problem and inspiring solutions. Hence, the code for the two separate programming scenarios, implementing the same pattern can be different.
 
-> ## Structure of a Design Pattern
+## Structure of a Design Pattern
 
 Term |Description
 ------|-----------
@@ -17,7 +17,7 @@ Term |Description
 **Structure**|Set of diagrams of the classes and objects that depict  parts of the pattern and how they are related
 **Code**|Example in any popular language for a better grasp of the idea
 
-> ## Why Patterns?
+## Why Patterns?
 ### &emsp;1.Avoid reinventing the wheel:
     Most of the frequently faced design problems already have a well-defined solution that is associated with a pattern. Patterns are proven solutions that can speed up development.
 
@@ -33,7 +33,7 @@ Term |Description
 ### &emsp;5. Improve your object-oriented skills:
     Now even if you never encounter any of these problems, learning patterns can give you insights into various approaches to solving problems using object-oriented principles.
 
-> ## Categories of Design Pattern
+## Categories of Design Pattern
 Based on intent, the JavaScript design pattern can be categorized into 3 major groups:
 
 ### &emsp; a) Creational Design Pattern
@@ -51,7 +51,7 @@ Based on intent, the JavaScript design pattern can be categorized into 3 major g
 ![design patterns](https://res.cloudinary.com/devvekh18/image/upload/v1646688628/technical%20paper/designpatterns_nixep9.png)
 
 
-># Creational Design Patterns
+# Creational Design Patterns
 
 ## 1. Constructor Pattern
 The constructor pattern is one of the most simple, popular, and modern JS design patterns. As suggested by the name, the purpose of this pattern is to aid constructor creation.
@@ -132,7 +132,7 @@ Here we have the flexibility of renaming like we have renamed addAnimal to add. 
 ![module pattern](https://res.cloudinary.com/devvekh18/image/upload/v1646690735/technical%20paper/modulepattern2_l8g1qk.png)
 ![module pattern](https://res.cloudinary.com/devvekh18/image/upload/v1646690835/technical%20paper/modulepattern3_y9k2tx.png)
 
-># References
+# References
 - https://www.youtube.com/watch?v=qJZ04KSo5Ws
 - https://codesource.io/javascript-design-patterns/
 - https://medium.com/@olufotebig/the-constructor-pattern-learning-javascript-design-patterns-18c2e76ae52
