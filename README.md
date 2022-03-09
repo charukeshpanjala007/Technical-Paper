@@ -18,34 +18,34 @@ Term |Description
 **Code**|Example in any popular language for a better grasp of the idea
 
 ## Why Patterns?
-### &emsp;1.Avoid reinventing the wheel:
-    Most of the frequently faced design problems already have a well-defined solution that is associated with a pattern. Patterns are proven solutions that can speed up development.
+### 1.Avoid reinventing the wheel:
+Most of the frequently faced design problems already have a well-defined solution that is associated with a pattern. Patterns are proven solutions that can speed up development.
 
-### &emsp;2. Codebase Maintenance:
-    Patterns help in implementing DRY(Do not Repeat Yourself) – the concept which helps to prevent your codebase from growing large and unwieldy.
+### 2. Codebase Maintenance:
+Patterns help in implementing DRY(Do not Repeat Yourself) – the concept which helps to prevent your codebase from growing large and unwieldy.
 
-### &emsp;3. Easily reused:
-    Reusing patterns assists in preventing minor subtle issues that can cause major problems in the application development process. This also improves code readability for coders and architects familiar with the patterns.
+### 3. Easily reused:
+Reusing patterns assists in preventing minor subtle issues that can cause major problems in the application development process. This also improves code readability for coders and architects familiar with the patterns.
 
-### &emsp;4. Enables efficient communication:
-    Patterns add to a developer’s vocabulary. This allows developers to communicate using well-known, well-understood names for software interactions, making communication faster.
+### 4. Enables efficient communication:
+Patterns add to a developer’s vocabulary. This allows developers to communicate using well-known, well-understood names for software interactions, making communication faster.
 
-### &emsp;5. Improve your object-oriented skills:
-    Now even if you never encounter any of these problems, learning patterns can give you insights into various approaches to solving problems using object-oriented principles.
+### 5. Improve your object-oriented skills:
+Now even if you never encounter any of these problems, learning patterns can give you insights into various approaches to solving problems using object-oriented principles.
 
 ## Categories of Design Pattern
 Based on intent, the JavaScript design pattern can be categorized into 3 major groups:
 
-### &emsp; a) Creational Design Pattern
-    These patterns focus on handling object creation mechanisms. A basic object creation approach in a program can lead to an added complexity. Creational JS design patterns aim to solve this problem by controlling the creation process.
+### a) Creational Design Pattern
+These patterns focus on handling object creation mechanisms. A basic object creation approach in a program can lead to an added complexity. Creational JS design patterns aim to solve this problem by controlling the creation process.
     Few patterns that fall under this category are – Constructor, Factory, Prototype, Singleton, etc.
 
-### &emsp;b) Structural Design Patterns
-    These patterns are concerned with object composition. They explain simple ways to assemble objects and classes into larger structures. They help ensure that when one part of a system changes, the entire structure of the system doesn’t need to do the same, keeping them flexible and efficient.
+### b) Structural Design Patterns
+These patterns are concerned with object composition. They explain simple ways to assemble objects and classes into larger structures. They help ensure that when one part of a system changes, the entire structure of the system doesn’t need to do the same, keeping them flexible and efficient.
     Few patterns that fall under this category are – Module, Decorator, Facade, Adapter, Proxy, etc.
 
-### &emsp;c) Behavioral Design Patterns
-    These patterns focus on improving the communication and assignment of responsibilities between dissimilar objects in a system.
+### c) Behavioral Design Patterns
+These patterns focus on improving the communication and assignment of responsibilities between dissimilar objects in a system.
     Few patterns that fall under this category are – Chain of Responsibility, Command, Observer, Iterator, Strategy, Template, etc.
 
 ![design patterns](https://res.cloudinary.com/devvekh18/image/upload/v1646688628/technical%20paper/designpatterns_nixep9.png)
